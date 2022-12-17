@@ -4,9 +4,9 @@
 3.Run the test cases
 
 Test case 1:
-35
-{"Hindu,BM"},{"BM,HT"},
+Input : 35
+Output: {"Hindu,BM"},{"BM,HT"},
 
 Test case 2:
-40
-{"TOI,BM"},{"Hindu,BM"},{"Hindu,HT"},{"BM,HT"},
+Input: 40
+Output: {"TOI,BM"},{"Hindu,BM"},{"Hindu,HT"},{"BM,HT"},
